@@ -3,7 +3,6 @@
 1. Initiate app and display Item ID, Product Name, and Price.
 
 
-
 2. Prompts for the product customer would like: 
 
 3. Prompts for the quantity the customer would like:
